@@ -41,7 +41,7 @@ In order to install Poppy Kart 2, just follow the same instructions but, when in
 
 ## Full game support
 
-Full game mode for both games can be enabled by editing a config file named `settings.cfg` located inside `ux0:app/POPPYKART`.
+Full game mode for both games can be enabled by creating a config file named `settings.cfg` located inside `ux0:app/POPPYKART`.
 We strongly encourage to enable support for these contents solely if you purchased them on your Android device.
 Sadly, we have no way to propose a license check on Vita against your purchased in-game contents on Android, so show respect and support *webrox* first before proceeding.
 Open the file `ux0:app/POPPYKART/settings.cfg` and change `enable_dlcs=0` to `enable_dlcs=1`.
